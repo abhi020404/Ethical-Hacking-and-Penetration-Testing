@@ -622,14 +622,4 @@ The author is not responsible for unauthorized or malicious use of the informati
 
 ---
 
-## 👨‍💻 Author
-
-**Abhishek Kumar**
-
-Cybersecurity | Ethical Hacking | Network Security | SOC | AI + Cybersecurity
-
----
-
-⭐ If you found this project useful, consider starring the repository.
-
-**Learn. Test. Secure. Repeat.**
+video link : https://lnkd.in/p/gb9CYbxK
